@@ -12,7 +12,7 @@
 
 body{
   background: var(--preta);
-  font-family: 'Times New Roman', Times, serif;
+  font-family: 'Arial', Times, serif;
   color: white;
 }
 
@@ -43,7 +43,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
   font-size: 16px;
-  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/capa-gilmore-girls.jpg.crdownload');
+  background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../img/capa-estrelas.jpg');
 
   height: 400px;
   background-size:cover; /*faz com que a imagem fique do tamanho do meu elemento*/
@@ -93,4 +93,14 @@ header nav a:hover{
 
 .filme-principal .container{
   width: 70%;
+}
+
+.box-filme{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+
+.carrosel-filmes{
+  margin-top: 5px;
 }
