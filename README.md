@@ -19,7 +19,7 @@
       <li>HTML5 semantic</li>
       <li>CSS</li>
       <li>Javascript</li>
-      <li>JQuert</li>
+      <li>JQuery</li>
     </ul>
     <h4>Screenshot</h4>
     <span>
